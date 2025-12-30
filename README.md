@@ -40,7 +40,7 @@ This is the standard, professional method for using Git. It requires you to have
 * **Fork:** First, fork the main homework repository on GitHub, just like in the web-based method.
 * **Clone:** Open your terminal or command prompt. Clone your forked repository to your local machine:
     ```
-    git clone [https://github.com/](https://github.com/)<your-name>/MMDT_T-PY101_2025_Batch[02]
+    git clone [https://github.com/](https://github.com/)<your-name>/MMDT_T-PY101_Batch[03]
     ```
 * **Navigate:** Change into the repository folder:
     ```
